@@ -6,6 +6,6 @@ Hi, I'm Liz 👋
 
 🙋🏻‍♀️ I’m looking for help with learning more about prompt engineering
 
-💚 My ultimate aim is to build solutions through tech that create a positive social impact, whether that's big and small  
+💚 My ultimate aim is to build solutions through tech that create a positive social impact, whether it's big and small  
 
 
