@@ -9,3 +9,13 @@ Hi, I'm Liz 👋
 💚 My ultimate aim is to build solutions through tech that create a positive social impact, whether it's big and small  
 
 
+💻 My tech stack 💻
+
+Languages | HTML, CSS, Javascript, Python
+
+Frontend | React, Next.js, React Testing Library
+
+Backend | Node, Express, SQL, REST, Supertest 
+
+UX / UI | Figma, Personas, Wireframes, User Stories
+
