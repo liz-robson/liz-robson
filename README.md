@@ -22,4 +22,3 @@ Frontend | React, Next.js, React Testing Library
 Backend | Node, Express, SQL, REST, Supertest 
 
 UX / UI | Figma, Personas, Wireframes, User Stories
-
