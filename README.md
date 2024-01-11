@@ -1,6 +1,6 @@
 Hi, I'm Liz 👋
 
-👩🏻‍💻 I’m currently working on my final project before graduating from the School of Code as a full-stack developer
+👩🏻‍💻 I have recently graduated from the School of Code Bootcamp 15 as a full-stack developer! See my pinned group projects
 
 💬 Ask me about how I got here...from dressing film stars in diamonds at the Oscars, to the world of tech 
 
