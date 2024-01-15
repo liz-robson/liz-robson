@@ -15,7 +15,7 @@ Hi, I'm Liz 👋
 
 💻 My tech stack 💻
 
-Languages | HTML, CSS, Javascript, Python
+Languages | HTML, CSS, Javascript, Python, Typescript
 
 Frontend | React, Next.js, React Testing Library
 
