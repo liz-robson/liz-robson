@@ -4,11 +4,37 @@ Hi 👋 I'm Liz
 <h3>Junior Full Stack Developer, based in Surrey (UK)</h3>
 
 <p>Following my recent graduation from the School of Code 16 week intensive full-stack bootcamp, I am now excited to continue my learning journey as a junior software developer - collaborating with others, building better user experiences and solving problems through code. In my previous career in PR & marketing, I developed invaluable communication and teamwork skills and found my passion for problem-solving and creative thinking. When I discovered coding and the possibilities the world of tech offers, I knew it was the right path for me.</p>
-
+<hr>
 <h3>My projects</h3>
 
-<h4>Habitap</h4>
-<p>For our final project on the School of Code bootcamp, my team and I developed a simple yet engaging habit tracking mobile-first app that turns goal-setting into a rewarding, fun and collaborative experience. You can watch your virtual plant flourish as you make progress towards your personal goals, share with friends and watch your collective garden grow.
+<h4><a href="https://github.com/liz-robson/SoC-final-project">Habitap  | Habit Tracking App </a></h4>
+
+![Habitap Project](/habitap.png)
+
+<p>For our final project on the School of Code bootcamp, my team and I developed a simple yet engaging habit tracking mobile-first app that turns goal-setting into a rewarding, fun and collaborative experience. You can watch your virtual plant flourish as you make progress towards your personal goals, share with friends and watch your collective garden grow.</p>
+
+<hr>
+
+<h4><a href="https://github.com/liz-robson/SoC-midterm-project">Tortee | Bootcamp Mentor Support App</a></h4>
+
+![Tortee Project](/tortee-midterm.png)
+
+<p>During the School of Code bootcamp, we undertook a midterm 1 week team project. Based on findings from user research, we created an app to help bootcampers get the most out of their mentoring sessions. The app included key tools like a note-taking section, technical questions to ask mentors, and icebreaker ideas for initial meetings.</p>
+
+<hr>
+
+<h4><a href="">Taberu | Restaurant App</a></h4>
+
+![Taberu Restaurant App](/taberu.png)
+
+<p>As part of the Sky Get into Tech course I took part in, my team and I built a restaurant app. We implementated a booking system, online ordering capabilities and a log in system for admin users. We used a versatile tech stack and crafted a strong solution that seamlessly integrated all functionalities. Through our collaborative efforts, we delivered an app ready to meet the demands of modern restaurant management.</p>
+
+
+
+
+
+
+
 
 <h3>My skills</h3>
 <p align="left">
