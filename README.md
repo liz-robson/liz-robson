@@ -75,6 +75,26 @@
 
 <hr>
 
+
+<h4><a href="">Weather App</a></h4>
+
+![Weather App](/Weather-app.png)
+
+<p>In Week 3 of the School of Code bootcamp, our 'Hackathon Friday' challenge was to create basic Weather app fetching data from an open source API. I wanted to revisit this project after completing the bootcamp to continue exploring Typescript, Next.js 14 and open source APIs again. I also wanted to get to grips with Tailwind a bit more. The result is a user-friendly, clean UI with up-to-date weather for the day ahead, plus a 7 day forecast. I used geolocation functionality to allow the user to quickly get weather information on their current location, and a search box allows the user to find their chosen location for weather info.</p>
+
+<h6>TECH STACK</h6>
+<div><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+</div>
+
+<hr>
+
+<hr>
+
 <p style="width: 100%;">
     <a href="http://www.github.com/liz-robson">
         <img style="width: 50%;" src="https://github-readme-stats.vercel.app/api?username=liz-robson&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="liz-robson's GitHub stats" />
