@@ -62,7 +62,7 @@
 
 ![Taberu Restaurant App](/taberu.png)
 
-<p>As part of the Sky Get into Tech course I took part in, my team and I built a restaurant app. We implementated a booking system, online ordering capabilities and a log in system for admin users. We used a versatile tech stack and crafted a strong solution that seamlessly integrated all functionalities. Through our collaborative efforts, we delivered an app ready to meet the demands of modern restaurant management.</p>
+<p>As part of the Sky Get into Tech course I took part in, my team and I built a restaurant app. We implemented a booking system, online ordering capabilities and a log in system for admin users. We used a versatile tech stack and crafted a strong solution that seamlessly integrated all functionalities. Through our collaborative efforts, we delivered an app ready to meet the demands of modern restaurant management.</p>
 
 <h6>TECH STACK</h6>
 <div><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
