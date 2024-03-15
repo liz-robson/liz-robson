@@ -25,7 +25,7 @@
 
 <p>For our final project on the School of Code bootcamp, my team and I developed a simple yet engaging habit tracking mobile-first app that turns goal-setting into a rewarding, fun and collaborative experience. You can watch your virtual plant flourish as you make progress towards your personal goals, share with friends and watch your collective garden grow.</p>
 
-<h6><a href="https://www.youtube.com/watch?v=G5pAIrBaXzo">Watch the demo</a></h6>
+<h6><a href="https://www.youtube.com/watch?v=G5pAIrBaXzo">WATCH THE DEMO</a></h6>
 
 <h6>TECH STACK</h6>
 <div><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
