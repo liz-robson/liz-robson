@@ -1,6 +1,6 @@
 <div><p><strong>Hi, I'm Liz 👋</strong></p></div>
 
-<p>Following my recent graduation from the School of Code 16 week intensive full-stack bootcamp, I am currently looking to secure my first role in tech. In my previous career in PR & marketing, I developed invaluable communication and teamwork skills and found my passion for problem-solving and creative thinking. When I discovered the possibilities the world of tech offers, I knew it was the right path for me. I am now excited to continue my journey, collaborating with others, building better user experiences and solving problems through tech solutions.</p>
+<p>Following my recent graduation from the School of Code 16 week intensive full-stack bootcamp, I am currently looking to secure my first role in tech. In my previous career in PR & marketing, I developed invaluable communication and teamwork skills and found my passion for problem-solving and creative thinking. When I discovered the possibilities the world of tech offers, I knew it was the right path for me. I am now excited to continue my journey, collaborating with others whilst solving problems through tech solutions.</p>
 
 <p>
     <a href="https://www.linkedin.com/in/lizzie-robson" target="_blank" rel="noreferrer">
